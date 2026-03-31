@@ -18,7 +18,7 @@ const faqs = [
   {
     question: "Where is my data stored?",
     answer:
-      "All your data is stored locally on your device. If you have iCloud enabled, your data can also be backed up and synced across your Apple devices through your personal iCloud account. We never store your data on our servers.",
+      "Your data is stored securely in the cloud, so you never have to worry about losing your records or receipts if you switch devices or delete the app. Your data is always private and secure — it is never shared with anyone. You can delete your data at any time from within the app.",
   },
   {
     question: "What is the difference between a capital improvement and a repair?",
