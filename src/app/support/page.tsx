@@ -48,7 +48,7 @@ const faqs = [
   {
     question: "Does HomeBasis work for multiple properties?",
     answer:
-      "Yes. You can add and track multiple properties within the app. Each property maintains its own purchase details, improvements, and cost basis calculations.",
+      "HomeBasis currently supports one property. Support for multiple properties is something we plan to add in the future.",
   },
   {
     question: "What is the Section 121 exclusion?",
