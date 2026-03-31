@@ -12,7 +12,7 @@ export default function BlogPostLayout({ title, description, date, children }: B
   return (
     <article className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <div className="mb-8">
-        <Link href="/blog" className="text-primary hover:text-primary-light text-sm font-medium transition-colors">
+        <Link href="/blog" className="text-blue hover:text-blue-light text-sm font-medium transition-colors">
           &larr; Back to Blog
         </Link>
       </div>

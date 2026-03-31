@@ -27,7 +27,7 @@ export default function Header() {
             href="https://apps.apple.com/us/app/homebasis-tax-basis-tracker/id6760266752"
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-primary text-white px-5 py-2 rounded-lg font-medium hover:bg-primary-light transition-colors"
+            className="bg-blue text-white px-5 py-2 rounded-lg font-medium hover:bg-blue-light transition-colors"
           >
             Download App
           </a>

@@ -110,7 +110,7 @@ export default function Home() {
                 key={feature.title}
                 className="bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-shadow"
               >
-                <div className="w-14 h-14 bg-primary/10 text-primary rounded-xl flex items-center justify-center mb-4">
+                <div className="w-14 h-14 bg-blue/10 text-blue rounded-xl flex items-center justify-center mb-4">
                   {feature.icon}
                 </div>
                 <h3 className="font-semibold text-lg mb-2">{feature.title}</h3>
@@ -130,7 +130,7 @@ export default function Home() {
           <div className="space-y-8">
             {steps.map((step) => (
               <div key={step.number} className="flex gap-6 items-start">
-                <div className="flex-shrink-0 w-12 h-12 bg-primary text-white rounded-full flex items-center justify-center text-xl font-bold">
+                <div className="flex-shrink-0 w-12 h-12 bg-blue text-white rounded-full flex items-center justify-center text-xl font-bold">
                   {step.number}
                 </div>
                 <div>
@@ -151,29 +151,29 @@ export default function Home() {
           </h2>
           <div className="bg-white/10 backdrop-blur rounded-2xl p-8 sm:p-10">
             <p className="text-white/80 mb-6 leading-relaxed">
-              <strong className="text-white">Meet Maria and David.</strong> They bought their home for <strong className="text-accent-light">$320,000</strong> and
-              spent <strong className="text-accent-light">$75,000</strong> on improvements over 15 years — a kitchen remodel, new roof, HVAC replacement,
+              <strong className="text-white">Meet Maria and David.</strong> They bought their home for <strong className="text-blue-light">$320,000</strong> and
+              spent <strong className="text-blue-light">$75,000</strong> on improvements over 15 years — a kitchen remodel, new roof, HVAC replacement,
               and a bathroom renovation.
             </p>
             <div className="grid sm:grid-cols-2 gap-6 mb-6">
               <div className="bg-white/5 rounded-xl p-5">
-                <h4 className="font-semibold text-accent-light mb-3">Without Tracking</h4>
+                <h4 className="font-semibold text-white/60 mb-3">Without Tracking</h4>
                 <ul className="space-y-2 text-sm text-white/70">
                   <li>Purchase price: $320,000</li>
                   <li>Sale price: $850,000</li>
                   <li>Gain: $530,000</li>
                   <li>After $500K exclusion: $30,000 taxable</li>
-                  <li className="text-white font-semibold">Tax owed: ~$4,500</li>
+                  <li className="text-red-400 font-semibold">Tax owed: ~$4,500</li>
                 </ul>
               </div>
-              <div className="bg-white/5 rounded-xl p-5 ring-2 ring-accent-light">
-                <h4 className="font-semibold text-accent-light mb-3">With HomeBasis</h4>
+              <div className="bg-white/5 rounded-xl p-5 ring-2 ring-accent">
+                <h4 className="font-semibold text-accent mb-3">With HomeBasis</h4>
                 <ul className="space-y-2 text-sm text-white/70">
                   <li>Adjusted basis: $395,000</li>
                   <li>Sale price: $850,000</li>
                   <li>Gain: $455,000</li>
                   <li>After $500K exclusion: $0 taxable</li>
-                  <li className="text-accent-light font-semibold">Tax owed: $0</li>
+                  <li className="text-accent font-semibold">Tax owed: $0</li>
                 </ul>
               </div>
             </div>
