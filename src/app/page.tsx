@@ -184,30 +184,33 @@ export default function Home() {
         </div>
       </section>
 
-      {/* App Screenshots Placeholder */}
+      {/* App Screenshots */}
       <section className="py-16 sm:py-20 bg-bg-alt">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl sm:text-3xl font-bold text-primary-dark text-center mb-12">
             Designed for Homeowners, Not Accountants
           </h2>
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
-            {["Dashboard", "Log Improvement", "Tax Estimator", "Export Hub"].map((screen) => (
+          <div className="flex gap-4 sm:gap-6 overflow-x-auto pb-4 snap-x snap-mandatory -mx-4 px-4 sm:mx-0 sm:px-0 sm:grid sm:grid-cols-3 lg:grid-cols-6 sm:overflow-x-visible">
+            {[
+              { src: "/screenshot_1_hook.png", alt: "HomeBasis app dashboard showing home value and adjusted cost basis" },
+              { src: "/screenshot_2_core_action.png", alt: "HomeBasis app logging a home improvement project" },
+              { src: "/screenshot_3_classification.png", alt: "HomeBasis app classifying an improvement as capital or repair" },
+              { src: "/screenshot_4_estimator.png", alt: "HomeBasis app capital gains tax estimator with Section 121 exclusion" },
+              { src: "/screenshot_5_receipts.png", alt: "HomeBasis app receipt storage for home improvement invoices" },
+              { src: "/screenshot_6_export.png", alt: "HomeBasis app export hub generating CPA-ready PDF reports" },
+            ].map((screenshot) => (
               <div
-                key={screen}
-                className="bg-white rounded-2xl shadow-sm aspect-[9/16] flex items-center justify-center border border-border"
+                key={screenshot.src}
+                className="flex-shrink-0 w-48 sm:w-auto snap-center"
               >
-                <div className="text-center px-4">
-                  <div className="w-12 h-12 bg-primary/10 text-primary rounded-xl flex items-center justify-center mx-auto mb-3">
-                    <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
-                      <path strokeLinecap="round" strokeLinejoin="round" d="M10.5 1.5H8.25A2.25 2.25 0 006 3.75v16.5a2.25 2.25 0 002.25 2.25h7.5A2.25 2.25 0 0018 20.25V3.75a2.25 2.25 0 00-2.25-2.25H13.5m-3 0V3h3V1.5m-3 0h3" />
-                    </svg>
-                  </div>
-                  <p className="text-sm font-medium text-text-muted">{screen}</p>
-                </div>
+                <img
+                  src={screenshot.src}
+                  alt={screenshot.alt}
+                  className="rounded-2xl shadow-sm border border-border w-full"
+                />
               </div>
             ))}
           </div>
-          <p className="text-center text-text-muted text-sm mt-6">App screenshots coming soon</p>
         </div>
       </section>
 
