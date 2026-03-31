@@ -13,7 +13,7 @@ export default function SellingYourHomeTaxGuidePost() {
     <BlogPostLayout
       title="Selling Your Home in 2026? A Tax Planning Checklist"
       description="A step-by-step tax planning checklist for homeowners selling in 2026, covering cost basis, capital gains, and the Section 121 exclusion."
-      date="June 17, 2025"
+      date="April 13, 2026"
     >
       <p>
         Selling a home is one of the largest financial transactions most people
