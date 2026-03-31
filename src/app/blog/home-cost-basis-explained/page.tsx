@@ -13,7 +13,7 @@ export default function HomeCostBasisExplained() {
     <BlogPostLayout
       title="What Is Home Cost Basis? A Homeowner's Guide"
       description="Learn what cost basis means for your home, how to calculate your adjusted basis, and why tracking it can save you thousands in capital gains tax."
-      date="March 28, 2026"
+      date="January 19, 2026"
     >
       <p>
         If you own a home, there is a number the IRS cares about that most

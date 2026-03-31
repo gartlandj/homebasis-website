@@ -14,7 +14,7 @@ export default function Section121ExclusionGuide() {
     <BlogPostLayout
       title="Section 121 Exclusion: How to Pay Zero Capital Gains Tax on Your Home"
       description="Understand the Section 121 exclusion that lets you exclude up to $500K in capital gains tax-free when selling your primary residence."
-      date="March 28, 2026"
+      date="February 16, 2026"
     >
       <p>
         When you sell your primary residence at a profit, there is one tax

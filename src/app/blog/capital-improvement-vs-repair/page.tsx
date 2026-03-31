@@ -13,7 +13,7 @@ export default function CapitalImprovementVsRepair() {
     <BlogPostLayout
       title="Capital Improvement vs. Repair: What Counts for Your Tax Basis?"
       description="Learn the IRS distinction between capital improvements and repairs, with a category-by-category breakdown of common home projects."
-      date="March 28, 2026"
+      date="February 2, 2026"
     >
       <p>
         You just spent $18,000 on a new roof. Or maybe $4,500 fixing the

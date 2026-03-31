@@ -14,7 +14,7 @@ export default function TrackHomeImprovementsForTaxesPost() {
     <BlogPostLayout
       title="How to Track Home Improvements for Taxes (And Why You Should Start Now)"
       description="Practical methods for tracking home improvements for tax purposes, from spreadsheets to dedicated apps, and tips for reconstructing past records."
-      date="June 24, 2025"
+      date="March 30, 2026"
     >
       <p>
         The average American homeowner stays in their home for about 13 years.
