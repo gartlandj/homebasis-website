@@ -188,7 +188,7 @@ export default function Home() {
       <section className="py-16 sm:py-20 bg-bg-alt">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl sm:text-3xl font-bold text-primary-dark text-center mb-12">
-            Designed for Homeowners, Not Accountants
+            Simple Enough for Any Homeowner, Powerful Enough for Any Accountant
           </h2>
           <div className="flex gap-4 sm:gap-6 overflow-x-auto pb-4 snap-x snap-mandatory -mx-4 px-4 sm:mx-0 sm:px-0 sm:grid sm:grid-cols-3 lg:grid-cols-6 sm:overflow-x-visible">
             {[
