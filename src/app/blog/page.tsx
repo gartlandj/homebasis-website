@@ -13,41 +13,41 @@ const posts = [
     href: "/blog/home-cost-basis-explained/",
     description:
       "Learn what cost basis means for your home and why tracking it saves thousands.",
-    date: "March 30, 2026",
+    date: "January 19, 2026",
   },
   {
     title: "Capital Improvement vs. Repair: What Counts for Your Tax Basis?",
     href: "/blog/capital-improvement-vs-repair/",
     description:
       "The IRS distinction between improvements and repairs, with a project-by-project breakdown.",
-    date: "March 30, 2026",
+    date: "February 2, 2026",
   },
   {
     title: "Section 121 Exclusion: How to Pay Zero Capital Gains Tax",
     href: "/blog/section-121-exclusion-guide/",
     description:
       "How the $250K/$500K home sale exclusion works and when it's not enough.",
-    date: "March 30, 2026",
+    date: "February 16, 2026",
   },
   {
     title: "Which Closing Costs Count Toward Your Cost Basis?",
     href: "/blog/closing-costs-and-cost-basis/",
     description:
       "Find out which closing costs increase your basis and reduce future taxes.",
-    date: "April 6, 2026",
+    date: "March 2, 2026",
   },
   {
     title: "Selling Your Home in 2026? A Tax Planning Checklist",
     href: "/blog/selling-your-home-tax-guide/",
     description: "Step-by-step tax planning for home sellers.",
-    date: "April 13, 2026",
+    date: "March 16, 2026",
   },
   {
     title: "How to Track Home Improvements for Taxes",
     href: "/blog/track-home-improvements-for-taxes/",
     description:
       "Practical methods for tracking improvements, from spreadsheets to apps.",
-    date: "April 20, 2026",
+    date: "March 30, 2026",
   },
 ];
 

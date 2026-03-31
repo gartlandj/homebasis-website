@@ -13,7 +13,7 @@ export default function ClosingCostsAndCostBasisPost() {
     <BlogPostLayout
       title="Which Closing Costs Count Toward Your Home's Cost Basis?"
       description="Find out which closing costs you can add to your home's cost basis to reduce capital gains tax when you sell."
-      date="April 6, 2026"
+      date="March 2, 2026"
     >
       <p>
         When you buy a home, the purchase price is only the starting point for
