@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   other: {
-    // "apple-itunes-app": "app-id=YOUR_APP_ID",
+    "apple-itunes-app": "app-id=6760266752",
   },
 };
 

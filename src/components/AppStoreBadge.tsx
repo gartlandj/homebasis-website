@@ -1,7 +1,7 @@
 export default function AppStoreBadge({ className = "" }: { className?: string }) {
   return (
     <a
-      href="https://apps.apple.com/app/homebasis"
+      href="https://apps.apple.com/us/app/homebasis-tax-basis-tracker/id6760266752"
       target="_blank"
       rel="noopener noreferrer"
       className={`inline-block ${className}`}

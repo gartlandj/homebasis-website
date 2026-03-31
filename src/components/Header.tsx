@@ -24,7 +24,7 @@ export default function Header() {
             Support
           </Link>
           <a
-            href="https://apps.apple.com/app/homebasis"
+            href="https://apps.apple.com/us/app/homebasis-tax-basis-tracker/id6760266752"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-primary text-white px-5 py-2 rounded-lg font-medium hover:bg-primary-light transition-colors"
@@ -57,7 +57,7 @@ export default function Header() {
             Support
           </Link>
           <a
-            href="https://apps.apple.com/app/homebasis"
+            href="https://apps.apple.com/us/app/homebasis-tax-basis-tracker/id6760266752"
             target="_blank"
             rel="noopener noreferrer"
             className="block bg-primary text-white px-5 py-2 rounded-lg font-medium text-center hover:bg-primary-light transition-colors"

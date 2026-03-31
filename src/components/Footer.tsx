@@ -21,7 +21,7 @@ export default function Footer() {
             <h4 className="font-semibold mb-3">Product</h4>
             <ul className="space-y-2 text-sm text-white/70">
               <li>
-                <a href="https://apps.apple.com/app/homebasis" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                <a href="https://apps.apple.com/us/app/homebasis-tax-basis-tracker/id6760266752" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   Download for iOS
                 </a>
               </li>
