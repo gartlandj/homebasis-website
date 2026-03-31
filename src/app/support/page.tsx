@@ -41,9 +41,9 @@ const faqs = [
       "Yes. HomeBasis can generate professional PDF reports and CSV files that summarize your home improvements, costs, and cost basis calculations. You can share these directly with your CPA or tax professional from within the app.",
   },
   {
-    question: "What happens to my data if I delete the app?",
+    question: "How can I delete my data?",
     answer:
-      "If you uninstall HomeBasis, all locally stored data is removed from your device. If you have iCloud backup enabled, your data may still be available in your iCloud account. We recommend exporting your records before uninstalling the app.",
+      "You can delete your data at any time from within the app. Once deleted, your data is permanently removed from our servers and cannot be recovered.",
   },
   {
     question: "Does HomeBasis work for multiple properties?",
