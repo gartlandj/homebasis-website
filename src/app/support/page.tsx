@@ -18,7 +18,7 @@ const faqs = [
   {
     question: "Where is my data stored?",
     answer:
-      "Your data is stored securely in the cloud, so you never have to worry about losing your records or receipts if you switch devices or delete the app. Your data is always private and secure — it is never shared with anyone. You can delete your data at any time from within the app.",
+      "Your data is stored securely in the cloud, so you never have to worry about losing your records or receipts if you switch devices or lose your phone. Your financial and personal data is always private and secure — it is never shared, sold, or used for advertising. You can delete your data at any time from within the app.",
   },
   {
     question: "What is the difference between a capital improvement and a repair?",
