@@ -11,6 +11,10 @@ export const metadata: Metadata = {
   description:
     "Track home improvements, store receipts, and estimate your capital gains tax — all in one app. Save thousands when you sell.",
   metadataBase: new URL("https://homebasis.app"),
+  icons: {
+    icon: "/favicon.png",
+    apple: "/apple-touch-icon.png",
+  },
   openGraph: {
     type: "website",
     locale: "en_US",

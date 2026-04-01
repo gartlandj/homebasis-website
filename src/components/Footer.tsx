@@ -7,9 +7,8 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-2">
             <div className="flex items-center gap-2 font-bold text-xl mb-3">
-              <svg width="24" height="24" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M14 3L2 13h3v11h7v-7h4v7h7V13h3L14 3z" fill="currentColor" />
-              </svg>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/app-icon.png" alt="HomeBasis icon" width={28} height={28} className="rounded-lg" />
               HomeBasis
             </div>
             <p className="text-white/70 text-sm max-w-md">
